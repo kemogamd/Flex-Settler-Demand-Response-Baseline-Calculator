@@ -105,10 +105,8 @@ The app displays:
 
 ## Screenshots
 
-(You can add images in a docs/ folder)
-
-Example:
-
+![Baseline vs Actual Consumption and Gaming Risk Analysis – example 1](docs/newplot(1).png)
+![Baseline vs Actual Consumption and Gaming Risk Analysis – example 2 with delivered energy area](docs/newplot(2).png)
 
 
 
