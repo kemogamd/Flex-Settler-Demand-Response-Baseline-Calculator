@@ -105,8 +105,8 @@ The app displays:
 
 ## Screenshots
 
-![Baseline vs Actual Consumption and Gaming Risk Analysis – example 1](docs/newplot(1).png)
-![Baseline vs Actual Consumption and Gaming Risk Analysis – example 2 with delivered energy area](docs/newplot(2).png)
+![Baseline vs Actual Consumption and Gaming Risk Analysis – example 1](docs/Baseline vs Actual Consumption and Gaming Risk Analysis – example 1.png)
+![Baseline vs Actual Consumption and Gaming Risk Analysis – example 2 with delivered energy area](Baseline vs Actual Consumption and Gaming Risk Analysis – example 2 with delivered energy area.png)
 
 
 
